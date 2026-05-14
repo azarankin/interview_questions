@@ -1,0 +1,3 @@
+stack   LIFO
+queue   FIFO
+deque   doul ended queue
